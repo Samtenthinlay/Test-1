@@ -21,5 +21,16 @@ elif missing_value_choice == "2":
     a = F / m
     print(f"Acceleration (a) = {a}")
 
+elif missing_value_choice == "3":
+    m = float(input("Enter mass (m): "))
+    a = float(input("Enter acceleration (a): "))
+    F = m * a 
+    print(f"Force (F) = {F}")
+
+else:
+    print("Invalid option selected for the missing value.")    
+
+        
+
 
 
