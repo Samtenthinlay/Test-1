@@ -41,7 +41,7 @@ while True:
         break
 
     else:
-        print("Invalid choce! Please enter a valid option.")
+        print("Invalid choice! Please enter a valid option.")
         
                             
 
